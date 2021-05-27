@@ -1,4 +1,4 @@
-# CSS-only directionally aware hover
+# Gatoteca CSS-only directionally aware hover
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/giana/pen/YZWjQy](https://codepen.io/giana/pen/YZWjQy).
 
